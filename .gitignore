@@ -1,0 +1,6 @@
+build/
+
+opencv/
+opencv_contrib/
+depthai-core/
+ORB_SLAM3/
